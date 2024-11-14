@@ -118,4 +118,4 @@ Ensure that the following environment variables are set:
 
 ## License
 
-This project is licensed under the MIT License.
+
