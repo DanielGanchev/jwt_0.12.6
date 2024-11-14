@@ -1,6 +1,6 @@
 # JWT Implementation
 
-This project is a Spring Boot application that implements JWT (JSON Web Token) based authentication 0.12.6 without Spring Security.
+This project is a Spring Boot application that implements JWT (JSON Web Token) based authentication 0.12.6 without Spring Security with Mail system for Reset Password and Email Verification.
 
 
 
